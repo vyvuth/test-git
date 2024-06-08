@@ -7,3 +7,9 @@ console.log(Name);
 
 // const myName="NaNa";
  //myName ="2001";
+
+
+ let Array = [100, 200, 500];
+ console.log(Array);
+ 
+
