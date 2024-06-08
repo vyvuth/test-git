@@ -30,3 +30,8 @@ console.log(youAre);
 console.log(yourName);
 console.log(Age);
 console.log(parentAge);
+
+let Dara = [2500,500, 1000,0.1,0.2,0.5];
+let price = Math.max(...Dara);
+let prices = Math.min (...Dara);
+console.log(prices);
