@@ -17,3 +17,8 @@
  FirstmyName = "2003";
 console.log(FirstmyName); 
 
+const AB = [0,0.001,25,30,65,180];
+const maximum = Math.max(...AB);
+const minimum = Math.min(...AB)
+console.log(minimum);
+
