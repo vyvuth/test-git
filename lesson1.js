@@ -15,10 +15,18 @@
 
  var firstName = "Dara";
  FirstmyName = "2003";
-console.log(FirstmyName); 
+//console.log(FirstmyName); 
 
 const AB = [0,0.001,25,30,65,180];
 const maximum = Math.max(...AB);
 const minimum = Math.min(...AB)
-console.log(minimum);
+//console.log(minimum);
 
+let youAre = "Dara";
+var yourName = "Pisey";
+const Age = "27";
+const parentAge = "56";
+console.log(youAre);
+console.log(yourName);
+console.log(Age);
+console.log(parentAge);
