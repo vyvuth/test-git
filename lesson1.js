@@ -11,6 +11,9 @@
 
  let Array = [100, 200, 500];
  let result = Math.min(...Array)
- console.log(result);
- 
+
+
+ var firstName = "Dara";
+ FirstmyName = "2003";
+console.log(FirstmyName); 
 
