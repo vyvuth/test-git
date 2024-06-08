@@ -1,7 +1,7 @@
 //data type: var, let and const
-var Name='FaFA';
-Name=250000000;
-console.log(Name);
+//var Name='FaFA';
+//Name=250000000;
+//console.log(Name);
 
 
 
@@ -10,6 +10,7 @@ console.log(Name);
 
 
  let Array = [100, 200, 500];
- console.log(Array);
+ let result = Math.min(...Array)
+ console.log(result);
  
 
